@@ -19,7 +19,7 @@ let allMusic = [
     {
       name: "Aint It Fun",
       artist: "Paramore",
-      img: "paramore-fun",
+      img: "paramore-AintItFun",
       src: "paramore-AintItFun"
     },
     {
