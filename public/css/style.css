@@ -175,13 +175,13 @@ body{
   position: absolute;
 }
 
-
 .slider_container{
   display: flex;
   flex-direction: row;
 padding-bottom: 1rem;
 padding-right: 3rem;
 width: 7rem;
+cursor: pointer;
 
 }
 
@@ -190,10 +190,14 @@ width: 7rem;
   opacity: 0.6;
   width: 10rem;
   padding-right: 1rem;
+  cursor: pointer;
+
 
 }
 .volume_slider:hover{
   opacity: 1.0;
+  cursor: pointer;
+
 }
 .hr{
   color: #2a11b452;
