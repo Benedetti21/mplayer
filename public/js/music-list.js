@@ -10,6 +10,11 @@ let allMusic = [
       artist: "Paramore",
       img: "paramore-AintItFun",
       src: "paramore-AintItFun"
+    },{
+      name: "Digital Love",
+      artist: "Daft Punk",
+      img: "digital",
+      src: "digital"
     },
     {
       name: "Ghost",
