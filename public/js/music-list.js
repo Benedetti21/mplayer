@@ -64,7 +64,25 @@ let allMusic = [
       artist: "Maroon 5",
       img: "maroon5-Misery",
       src: "maroon5-Misery"
-    }
+    },
+    {
+      name: "You Don´t My Name",
+      artist: "Alicia Keys",
+      img: "keys",
+      src: "keys"
+    },
+    {
+      name: "Everlong",
+      artist: "Foo Fighters",
+      img: "everlong",
+      src: "everlong"
+    },
+    {
+      name: "Somebody that I Used To Know",
+      artist: "Gotye",
+      img: "gotye",
+      src: "gotye"
+    },
     
     
   ];
