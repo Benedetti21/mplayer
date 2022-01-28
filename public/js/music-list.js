@@ -46,6 +46,18 @@ let allMusic = [
       artist: "The Weeknd",
       img: "theWeeknd-InYourEyes",
       src: "theWeeknd-InYourEyes"
+    },
+    {
+      name: "Lose Somebody",
+      artist: "One Republic",
+      img: "oneRepublic-Someday",
+      src: "oneRepublic-Someday"
+    },
+    {
+      name: "Misery",
+      artist: "Maroon 5",
+      img: "maroon5-Misery",
+      src: "maroon5-Misery"
     }
     
     
