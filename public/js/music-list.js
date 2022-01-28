@@ -18,6 +18,12 @@ let allMusic = [
       src: "justinBieber-Ghost"
     },
     {
+      name: "Lose Somebody",
+      artist: "One Republic",
+      img: "onerepublic-losesomebody",
+      src: "onerepublic-losesomebody"
+    },
+    {
       name: "Two Ghosts",
       artist: "Harry Styles",
       img: "harryStyles-TwoGhosts",
