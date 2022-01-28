@@ -26,8 +26,8 @@ let allMusic = [
     {
       name: "Somewhere Only We Know",
       artist: "Keane",
-      img: "keane-SomewhereOnlyWeKnow2",
-      src: "keane-SomewhereOnlyWeKnow2"
+      img: "keane-SomewhereOnlyWeKnow",
+      src: "keane-SomewhereOnlyWeKnow"
     },
     {
       name: "The Only Exception",
