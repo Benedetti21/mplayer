@@ -48,7 +48,7 @@ let allMusic = [
       src: "theWeeknd-InYourEyes"
     },
     {
-      name: "Lose Somebody",
+      name: "Someday",
       artist: "One Republic",
       img: "oneRepublic-Someday",
       src: "oneRepublic-Someday"
