@@ -188,7 +188,7 @@ cursor: pointer;
 .volume_slider{
   -moz-appearance: scrollbarbutton-up;
   opacity: 0.6;
-  width: 10rem;
+  width: 8rem;
   padding-right: 1rem;
   cursor: pointer;
 
@@ -202,6 +202,20 @@ cursor: pointer;
 .hr{
   color: #2a11b452;
 }
+
+#v-up{
+font-size: 1.1rem;
+padding-top: 2px;
+padding-right: 5px;
+color: #171783;
+}
+#v-down{
+    font-size: 1.1rem;
+    padding-top: 2px;
+    padding-left: 5px;
+    color: #171783;
+}
+
 
 
 
