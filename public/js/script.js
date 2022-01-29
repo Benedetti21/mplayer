@@ -70,11 +70,11 @@ function nextMusic(){
 }
 
 
-//////////////////////////
+// Volume Slider function
 function setVolume(){
   mainAudio.volume = volume_slider.value / 100;
 }
-//////////////////////////
+
 
 
 
