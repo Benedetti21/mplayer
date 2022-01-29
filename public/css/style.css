@@ -43,17 +43,14 @@ body{
   align-items: center;
   justify-content: space-between;
 }
-.top-bar i{
-  font-size: 30px;
-  color: var(--lightblack);
-}
-.top-bar i:first-child{
-  margin-left: -7px;
-}
+
 .top-bar span{
   font-size: 18px;
-  color: var(--lightblack);
-
+  color: #171783;
+}
+#music-icon{
+font-size: 1.3rem;
+color: #171783;
 }
 .img-area{
   width: 100%;
