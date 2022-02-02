@@ -1,5 +1,11 @@
 let allMusic = [
     {
+      name: "Castle On The Hill",
+      artist: "Ed Sheeran",
+      img: "ed-castle",
+      src: "ed-castle"
+    },
+    {
       name: "Sugar Were Going Down",
       artist: "Fall Out Boy",
       img: "fob-SugarWereGoingDown",
