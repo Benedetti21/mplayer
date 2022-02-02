@@ -73,8 +73,8 @@ let allMusic = [
     {
       name: "Como Eran Las Cosas",
       artist: "Babasónicos",
-      img: "babasonicosmucho",
-      src: "babasonicosmucho"
+      img: "babasonicosmucho(2)",
+      src: "babasonicosmucho(2)"
     },
     {
       name: "Everlong",
