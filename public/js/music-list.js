@@ -1,5 +1,11 @@
 let allMusic = [
     {
+      name: "Stay The Night",
+      artist: "Zedd ft. Hayley Williams",
+      img: "staythenight",
+      src: "staythenight"
+    },
+    {
       name: "Castle On The Hill",
       artist: "Ed Sheeran",
       img: "ed-castle",
